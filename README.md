@@ -29,6 +29,13 @@ It accomplishes this goal in multiple ways which include:
 ## Known Bugs
 Here is a list of some currently known bugs and (if possible) how to fix them:
 - Sometimes when the user logs in, all folders and accounts are show twice even though they are only in the database once. To fix, close the app, relaunch, and log in.
+- When editing an existing account, if the user wants to change just the username and password without changing the ID, then the user must change the ID along with the username and password changes, save the changes, then change the ID back to the previous one.
+
+## Planned Features and Fixes
+- Adding a search bar to quickly search and find an account by its ID.
+- Update the UI with more appealing icons.
+- Assuring no duplicates of entries when sometimes logging in.
+- Allowing the user to just change the username and password of accounts if desired.
 
 ## FAQ
 ### 1. Is this app publicly available to be downloaded?
