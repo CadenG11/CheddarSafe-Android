@@ -24,7 +24,7 @@ It accomplishes this goal in multiple ways which include:
 - Pulling/Pushing data from the Cheddar Safe API over SSL to encrypt user data
 - When setup, requires a fingerprint on top of a master username/password to login
 - Requires a valid email address in the situation that the user's master password is forgotten
-- Has ReCAPTCHA integrated into the account creation/recovery processes to protect against bots
+- Has reCAPTCHA integrated into the account creation/recovery processes to protect against bots
 
 ## Known Bugs
 Here is a list of some currently known bugs and (if possible) how to fix them:
