@@ -7,8 +7,8 @@ Once logged in, you can look around in your folders to find your account informa
 
 Some features of the app include:
 - Add/remove accounts as needed.
-- Sort the folders and accounts in the folders for easier access.
 - Organize user accounts into folders for ease-of-use.
+- Sort the folders and accounts in the folders for easier access.
 - Change master username, password, and email for user account.
 
 ## How does it work?
@@ -34,8 +34,10 @@ Here is a list of some currently known bugs and (if possible) how to fix them:
 ## Planned Features and Fixes
 - Adding a search bar to quickly search and find an account by its ID.
 - Update the UI with more appealing icons.
-- Assuring no duplicates of entries when sometimes logging in.
+- Assuring no duplicates of entries when logging in.
 - Allowing the user to just change the username and password of accounts if desired.
+- More customization settings.
+- Allow user the delete their account.
 
 ## FAQ
 ### 1. Is this app publicly available to be downloaded?
