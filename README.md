@@ -30,6 +30,7 @@ It accomplishes this goal in multiple ways which include:
 Here is a list of some currently known bugs and (if possible) how to fix them:
 - Sometimes when the user logs in, all folders and accounts are show twice even though they are only in the database once. To fix, close the app, relaunch, and log in.
 - When editing an existing account, if the user wants to change just the username and password without changing the ID, then the user must change the ID along with the username and password changes, save the changes, then change the ID back to the previous one.
+- When changing view mode from vertical to horizontal, some of the elements get lost off the screen. It is highly recommended to only use the app in vertical mode to provide the best user experience.
 
 ## Planned Features and Fixes
 - Adding a search bar to quickly search and find an account by its ID.
@@ -38,6 +39,9 @@ Here is a list of some currently known bugs and (if possible) how to fix them:
 - Allowing the user to just change the username and password of accounts if desired.
 - More customization settings.
 - Allow user the delete their account.
+- Provide button to quickly move an account from one folder to another.
+- Add setting to remove fingerprint authentication.
+- Implement clipboard feature to allow for quick copy/pasting of credentials.
 
 ## FAQ
 ### 1. Is this app publicly available to be downloaded?
@@ -45,7 +49,7 @@ As of right now, this app is not available on the Play Store. There is currently
 but many revisions are to be done before that happens.
 
 ### 2. If it is not available to be downloaded, how do I visually see how it looks/works?
-There will be videos and screenshots provided to show the app in action soon. Once they are available, this document will be updated to reflect that change.
+On the How To wiki page, there are videos along with step-by-step guides on how to do different things within the app, which will be updated as new features and fixes are added.
 
 ### 3. How can I submit suggestions or feedback on the code provided?
 If you read the code and encounter potential issues or want to provide helpful criticism, please email __contact@compsg.dev__ with your comments and a response
