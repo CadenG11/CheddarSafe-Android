@@ -49,7 +49,7 @@ As of right now, this app is not available on the Play Store. There is currently
 but many revisions are to be done before that happens.
 
 ### 2. If it is not available to be downloaded, how do I visually see how it looks/works?
-On the How To wiki page, there are videos along with step-by-step guides on how to do different things within the app, which will be updated as new features and fixes are added.
+On the [How To wiki page](https://github.com/CadenG11/CheddarSafe-Android/wiki/How-To), there are videos along with step-by-step guides on how to do different things within the app, which will be updated as new features and fixes are added.
 
 ### 3. How can I submit suggestions or feedback on the code provided?
 If you read the code and encounter potential issues or want to provide helpful criticism, please email __contact@compsg.dev__ with your comments and a response
